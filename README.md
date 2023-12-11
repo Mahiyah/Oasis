@@ -1,5 +1,6 @@
 # Oasis
 Oasis provides a fantastic platform for honing my web development skills, offering a supportive community and real-world projects that challenge and inspire growth.
+
 Task 1: Calculator 
 🔢 One of the exciting challenges on the Oasis project was the creation of a feature-rich calculator. Delighted to announce the successful implementation of this essential tool that enhances the user experience on the platform. 💻🌐
 🛠️ Key Features:
